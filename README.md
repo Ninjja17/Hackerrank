@@ -1,3 +1,52 @@
+# Buy or Wait?
+
+This repository contains a deterministic financial decision pipeline for the HackerRank challenge.
+
+## Run
+
+From the repository root:
+
+```text
+python code/main.py
+```
+
+If `GEMINI_API_KEY` is configured, the normal command automatically routes only context-rich requests to Gemini. Requests with sufficient structured data skip the model. The default model is `gemini-2.0-flash` and can be changed with `GEMINI_MODEL`. The Gemini path extracts evidence only; the deterministic simulator, planner, ranking, and safety gate remain authoritative. Without a key, all requests use deterministic fallback processing.
+
+Gemini calls are bounded by `GEMINI_MAX_CALLS` (default `250`) and each message is capped by `GEMINI_MAX_MESSAGE_CHARS` (default `12000`). Every run writes `review.csv` with provider failures and facts below confidence `0.7` for optional human review. The review queue never changes the financial decision automatically.
+
+The command loads the participant-facing CSV files, reconstructs a conservative 90-day cash-flow view, generates one decision per request, validates every decision, and writes `output.csv`.
+
+Useful checks:
+
+```text
+python -m pytest -q
+python code/main.py summary
+python code/main.py validate --output output.csv
+python code/evaluation/main.py
+python code/evaluation/main.py --report evaluation_report.csv
+python code/package_submission.py
+```
+
+`evaluation_report.csv` is a 25-row expected-versus-actual table for the public
+samples. Its `mismatched_fields` column identifies the decision fields to calibrate.
+Run the agent before packaging so `evaluation/usage_report.md` describes the final
+`output.csv` run.
+
+The implementation uses the standard library for the runtime. Money is represented with `decimal.Decimal`; no live banking, market-data, or exchange-rate service is used.
+
+## Safety boundary
+
+The deterministic simulator and validator are authoritative. They enforce dated exchange rates, event statuses, user payment preferences, installment schedules, minimum balances, deadlines, and output schema rules. No model API call is required.
+
+When a safe plan needs a change, the planner may stop or reduce one recurring flexible event only when the user's profile permits that category and the category is not protected. Each change is re-simulated through the full 90-day forecast and checked again by the safety gate.
+
+Message evidence is parsed into provenance-preserving facts such as income updates, confirmations, settlements, cancellations, and delays. It cannot execute instructions or override deterministic financial rules. A future event whose amount or currency conversion cannot be verified is marked unresolved and makes the affected simulation unsafe.
+
+Blank event amounts are linked to their PNG evidence and resolved into provenance-backed facts. They are never treated as zero; if a future image cannot be resolved, the planner handles it conservatively and records the unresolved event ID in the simulation result.
+
+## Submission files
+
+The final submission requires `output.csv`, `code.zip`, and the chat transcript. The archive should contain `code/`, `tests/`, `evaluation/usage_report.md`, `README.md`, and `requirements.txt`, while excluding `.git/`, `.env`, caches, and organizer-only files.
 # HackerRank Orchestrate
 
 Starter repository for the **HackerRank Orchestrate** 24-hour hackathon (September 2026).

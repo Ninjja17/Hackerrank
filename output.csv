@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Pay 15656000 IDR today; the projected balance remains at or above 24768300 IDR.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Pay 6670 ZAR today; the projected balance remains at or above 20500 ZAR.
+request_28,253.97,affordable_later,wait,2024-08-15:1302.40,2024-08-15,none,Wait until 2024-08-15 to pay 1302.4 EUR; paying earlier would risk the minimum balance of 1100.
+request_29,23518.69,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 28300 ZAR.
+request_30,775.20,affordable_with_plan,installments,2026-04-06:268.74|2026-05-06:268.74|2026-06-05:268.74,2026-04-06,none,Use the supplied 3-payment plan in USD; total payable is 806.22 including fees.
+request_31,3314318.12,affordable_later,wait,2024-11-15:18164000,2024-11-15,none,Wait until 2024-11-15 to pay 18164000 IDR; paying earlier would risk the minimum balance of 16588900.
+request_32,15765.68,affordable_later,wait,2025-04-15:40018,2025-04-15,none,Wait until 2025-04-15 to pay 40018 ZAR; paying earlier would risk the minimum balance of 35700.
+request_33,45947.90,affordable_later,wait,2026-02-15:118000,2026-02-15,none,Wait until 2026-02-15 to pay 118000 INR; paying earlier would risk the minimum balance of 102100.
+request_34,129400,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,Pay 129400 INR today; the projected balance remains at or above 138500 INR.
+request_35,27486.15,affordable_later,wait,2026-01-15:212000,2026-01-15,none,Wait until 2026-01-15 to pay 212000 INR; paying earlier would risk the minimum balance of 106400.
+request_36,715.54,affordable_later,wait,2026-09-15:3954,2026-09-15,none,Wait until 2026-09-15 to pay 3954 USD; paying earlier would risk the minimum balance of 2400.
+request_37,4145753.96,affordable_later,wait,2024-05-15:14649000,2024-05-15,none,Wait until 2024-05-15 to pay 14649000 IDR; paying earlier would risk the minimum balance of 17056200.
+request_38,205.38,affordable_later,wait,2025-09-15:971.30,2025-09-15,none,Wait until 2025-09-15 to pay 971.3 EUR; paying earlier would risk the minimum balance of 400.
+request_39,76171.35,affordable_later,wait,2026-05-15:208600,2026-05-15,none,Wait until 2026-05-15 to pay 208600 INR; paying earlier would risk the minimum balance of 213400.
+request_40,428.73,affordable_later,wait,2024-08-15:1290.30,2024-08-15,none,Wait until 2024-08-15 to pay 1290.3 EUR; paying earlier would risk the minimum balance of 1500.
+request_41,12109709.15,affordable_later,wait,2025-12-15:38760000,2025-12-15,none,Wait until 2025-12-15 to pay 38760000 IDR; paying earlier would risk the minimum balance of 25366600.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,Pay 52100 INR today; the projected balance remains at or above 113100 INR.
+request_43,8342128.42,affordable_later,wait,2024-11-15:43339000,2024-11-15,none,Wait until 2024-11-15 to pay 43339000 IDR; paying earlier would risk the minimum balance of 21398000.
+request_44,34857.53,affordable_later,wait,2025-04-15:95800,2025-04-15,none,Wait until 2025-04-15 to pay 95800 INR; paying earlier would risk the minimum balance of 82900.
+request_45,4060421.09,affordable_later,wait,2026-09-15:21983000,2026-09-15,none,Wait until 2026-09-15 to pay 21983000 IDR; paying earlier would risk the minimum balance of 11149800.
+request_46,44783.15,affordable_with_plan,partial_payment,2024-12-03:44783.15|2024-12-15:4666.85,2024-12-15,none,Pay 44783.15 INR today and the remaining balance on 2024-12-15 while keeping at least 84000 INR.
+request_47,36662797.84,affordable_with_plan,full_payment,2025-05-05:38114000,,stop:event_4339,Pay 38114000 IDR today after stop:event_4339; the projected balance remains at or above 30049000 IDR.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,Pay 45700 INR today; the projected balance remains at or above 71300 INR.
+request_49,14669853.24,affordable_with_plan,installments,2024-03-18:11902106.67|2024-04-18:11902106.67|2024-05-19:11902106.67,2024-05-15,none,Use the supplied 3-payment plan in IDR; total payable is 35706320.01 including fees.
+request_50,43900,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,Pay 43900 INR today; the projected balance remains at or above 99700 INR.
+request_51,2191000,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Pay 2191000 IDR today; the projected balance remains at or above 7811000 IDR.
+request_52,19388.71,affordable_later,wait,2024-06-15:28870,2024-06-15,none,Wait until 2024-06-15 to pay 28870 INR; paying earlier would risk the minimum balance of 41500.
+request_53,556.68,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2026-01-15,none,Use the supplied 3-payment plan in USD; total payable is 1767.18 including fees.
+request_54,3707.99,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 37000 ZAR.
+request_55,127273.81,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-07-15,none,Use the supplied 3-payment plan in INR; total payable is 227343.99 including fees.
+request_56,800.16,affordable_with_plan,partial_payment,2025-02-03:800.16|2025-02-15:81.40,2025-02-15,none,Pay 800.16 USD today and the remaining balance on 2025-02-15 while keeping at least 2100 USD.
+request_57,14541.57,affordable_later,wait,2026-06-15:61446,2026-06-15,none,Wait until 2026-06-15 to pay 61446 ZAR; paying earlier would risk the minimum balance of 42700.
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,Pay 16226000 IDR today; the projected balance remains at or above 14433900 IDR.
+request_59,140600,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,2025-05-04,none,Use the supplied 3-payment plan in INR; total payable is 146223.99 including fees.
+request_60,169.76,affordable_later,wait,2026-01-15:199.89,2026-01-15,none,Wait until 2026-01-15 to pay 199.89 USD; paying earlier would risk the minimum balance of 400.
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Use the supplied 3-payment plan in ZAR; total payable is 30224.49 including fees.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay 404.23 USD today; the projected balance remains at or above 1300 USD.
+request_63,52680.28,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 153500 INR.
+request_64,49090.55,affordable_with_plan,installments,2024-06-11:22082.67|2024-07-12:22082.67|2024-08-12:22082.67,2024-06-15,none,Use the supplied 3-payment plan in INR; total payable is 66248.01 including fees.
+request_65,8104.37,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 15500 ZAR.
+request_66,22200,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Pay 22200 INR today; the projected balance remains at or above 80700 INR.
+request_67,374.53,affordable_later,wait,2024-11-15:2094,2024-11-15,none,Wait until 2024-11-15 to pay 2094 USD; paying earlier would risk the minimum balance of 1200.
+request_68,1505.22,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-03-15,none,Use the supplied 3-payment plan in USD; total payable is 2175.27 including fees.
+request_69,529.10,affordable_now,full_payment,2026-01-04:529.10,2026-01-04,none,Pay 529.1 EUR today; the projected balance remains at or above 700 EUR.
+request_70,50373.61,affordable_later,wait,2025-02-15:243900,2025-02-15,none,Wait until 2025-02-15 to pay 243900 INR; paying earlier would risk the minimum balance of 115000.
+request_71,0,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 8884800 IDR.
+request_72,11330,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,Pay 11330 ZAR today; the projected balance remains at or above 12200 ZAR.
+request_73,71400,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,Pay 71400 INR today; the projected balance remains at or above 103200 INR.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Pay 5010 ZAR today; the projected balance remains at or above 21900 ZAR.
+request_75,25925.08,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 39000 ZAR.
+request_76,927.86,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 1800 USD.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,Pay 60700 INR today; the projected balance remains at or above 82200 INR.
+request_78,50200,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,Pay 50200 INR today; the projected balance remains at or above 55200 INR.
+request_79,418.44,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 1000 EUR.
+request_80,115638.72,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 121300 INR.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,Pay 2076 USD today; the projected balance remains at or above 1600 USD.
+request_82,337.85,affordable_later,wait,2025-02-15:1405.20,2025-02-15,none,Wait until 2025-02-15 to pay 1405.2 USD; paying earlier would risk the minimum balance of 1100.
+request_83,12204.27,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 37800 INR.
+request_84,35048.34,affordable_later,wait,2026-05-15:95400,2026-05-15,none,Wait until 2026-05-15 to pay 95400 INR; paying earlier would risk the minimum balance of 91300.
+request_85,1092721.73,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 6396300 IDR.
+request_86,46300,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,Pay 46300 INR today; the projected balance remains at or above 84900 INR.
+request_87,37029.32,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 185900 INR.
+request_88,10734,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-06-15,none,Use the supplied 3-payment plan in ZAR; total payable is 27135.69 including fees.
+request_89,10433446.12,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2025-12-15,none,Use the supplied 3-payment plan in IDR; total payable is 14306240.01 including fees.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,Pay 2560 ZAR today; the projected balance remains at or above 7600 ZAR.
+request_91,494.28,affordable_later,wait,2024-11-15:1927.20,2024-11-15,none,Wait until 2024-11-15 to pay 1927.2 EUR; paying earlier would risk the minimum balance of 2100.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,Pay 34034 ZAR today; the projected balance remains at or above 28100 ZAR.
+request_93,1729.20,affordable_now,full_payment,2026-04-07:1729.20,2026-04-07,none,Pay 1729.2 USD today; the projected balance remains at or above 1900 USD.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,Pay 572 EUR today; the projected balance remains at or above 600 EUR.
+request_95,43565.40,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 145500 INR.
+request_96,75841.19,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-01-15,none,Use the supplied 3-payment plan in INR; total payable is 93807.99 including fees.
+request_97,1454.36,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-15,none,Use the supplied 3-payment plan in ZAR; total payable is 24435.84 including fees.
+request_98,0,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 30000 ZAR.
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,Pay 18062 ZAR today; the projected balance remains at or above 49100 ZAR.
+request_100,28495.44,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,Use the supplied 3-payment plan in ZAR; total payable is 38598.57 including fees.
+request_101,143500,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Pay 143500 INR today; the projected balance remains at or above 187400 INR.
+request_102,1716,affordable_with_plan,installments,2026-04-05:594.88|2026-05-05:594.88|2026-06-04:594.88,2026-04-05,none,Use the supplied 3-payment plan in EUR; total payable is 1784.64 including fees.
+request_103,6082.68,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 125500 INR.
+request_104,17204,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,Pay 17204 ZAR today; the projected balance remains at or above 24700 ZAR.
+request_105,53500,affordable_now,full_payment,2026-06-08:53500,2026-06-08,none,Pay 53500 INR today; the projected balance remains at or above 73900 INR.
+request_106,459.88,affordable_later,wait,2025-02-15:2207.70,2025-02-15,none,Wait until 2025-02-15 to pay 2207.7 EUR; paying earlier would risk the minimum balance of 1200.
+request_107,2504.56,affordable_with_plan,installments,2025-05-08:878.59|2025-06-05:878.59|2025-07-03:878.59,2025-05-15,none,Use the supplied 3-payment plan in EUR; total payable is 2635.77 including fees.
+request_108,2872.06,affordable_later,wait,2026-07-24:55308,2026-07-24,none,Wait until 2026-07-24 to pay 55308 ZAR; paying earlier would risk the minimum balance of 24100.
+request_109,807.71,affordable_with_plan,installments,2024-03-18:645.98|2024-04-18:645.98|2024-05-19:645.98,2024-04-15,none,Use the supplied 3-payment plan in EUR; total payable is 1937.94 including fees.
+request_110,22352,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,Use the supplied 3-payment plan in ZAR; total payable is 23246.07 including fees.
+request_111,16625000,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Pay 16625000 IDR today; the projected balance remains at or above 23022800 IDR.
+request_112,271.70,affordable_now,full_payment,2024-06-05:271.70,2024-06-05,none,Pay 271.7 EUR today; the projected balance remains at or above 500 EUR.
+request_113,0,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 82300 INR.
+request_114,65300,affordable_now,full_payment,2026-01-04:65300,2026-01-04,none,Pay 65300 INR today; the projected balance remains at or above 113400 INR.
+request_115,14848.08,affordable_later,wait,2024-11-15:80500,2024-11-15,none,Wait until 2024-11-15 to pay 80500 INR; paying earlier would risk the minimum balance of 38800.
+request_116,14421.84,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 80300 INR.
+request_117,880,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,Pay 880 EUR today; the projected balance remains at or above 1000 EUR.
+request_118,687.40,affordable_with_plan,installments,2024-12-07:255.87|2025-01-07:255.87|2025-02-07:255.87,2024-12-20,none,Use the supplied 3-payment plan in EUR; total payable is 767.61 including fees.
+request_119,66604.04,affordable_with_plan,installments,2025-05-18:70546.67|2025-06-15:70546.67|2025-07-13:70546.67,2025-06-15,none,Use the supplied 3-payment plan in INR; total payable is 211640.01 including fees.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay 7714000 IDR today; the projected balance remains at or above 20050300 IDR.
+request_121,633.60,affordable_now,full_payment,2024-03-03:633.60,2024-03-03,none,Pay 633.6 USD today; the projected balance remains at or above 800 USD.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Use the supplied 3-payment plan in IDR; total payable is 21380319.99 including fees.
+request_123,4076000,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,Pay 4076000 IDR today; the projected balance remains at or above 18091200 IDR.
+request_124,1402.01,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-07-15,none,Use the supplied 3-payment plan in EUR; total payable is 3228.36 including fees.
+request_125,0,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 11300 ZAR.
+request_126,159600,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,Pay 159600 INR today; the projected balance remains at or above 129700 INR.
+request_127,10765.23,affordable_later,wait,2024-09-15:23980,2024-09-15,none,Wait until 2024-09-15 to pay 23980 ZAR; paying earlier would risk the minimum balance of 41000.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,Pay 25168 ZAR today; the projected balance remains at or above 42600 ZAR.
+request_129,160.21,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 800 USD.
+request_130,447.17,affordable_later,wait,2025-02-15:1978.80,2025-02-15,none,Wait until 2025-02-15 to pay 1978.8 USD; paying earlier would risk the minimum balance of 1400.
+request_131,1409.59,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-06-15,none,Use the supplied 3-payment plan in USD; total payable is 1929.42 including fees.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,Pay 379.86 USD today; the projected balance remains at or above 1100 USD.
+request_133,15770000,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 9986200 IDR.
+request_134,5545219.98,affordable_later,wait,2025-10-15:21831000,2025-10-15,none,Wait until 2025-10-15 to pay 21831000 IDR; paying earlier would risk the minimum balance of 15902500.
+request_135,304.80,affordable_now,full_payment,2026-07-06:304.80,2026-07-06,none,Pay 304.8 USD today; the projected balance remains at or above 500 USD.
+request_136,560.40,affordable_now,full_payment,2024-06-03:560.40,2024-06-03,none,Pay 560.4 USD today; the projected balance remains at or above 1100 USD.
+request_137,34907.73,affordable_later,wait,2026-01-15:80100,2026-01-15,none,Wait until 2026-01-15 to pay 80100 INR; paying earlier would risk the minimum balance of 71800.
+request_138,860.05,affordable_with_plan,partial_payment,2026-04-07:860.05|2026-04-15:396.89,2026-04-15,none,Pay 860.05 EUR today and the remaining balance on 2026-04-15 while keeping at least 2300 EUR.
+request_139,1319.40,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-10-15,none,Use the supplied 3-payment plan in USD; total payable is 2408.64 including fees.
+request_140,2624.59,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 21600 ZAR.
+request_141,31629.45,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 67300 INR.
+request_142,1263.60,affordable_now,full_payment,2024-12-05:1263.60,2024-12-05,none,Pay 1263.6 USD today; the projected balance remains at or above 1700 USD.
+request_143,3040.88,affordable_later,wait,2025-07-15:12584,2025-07-15,none,Wait until 2025-07-15 to pay 12584 ZAR; paying earlier would risk the minimum balance of 11300.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,Pay 233.34 USD today; the projected balance remains at or above 600 USD.
+request_145,32351.14,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-05-15,none,Use the supplied 3-payment plan in INR; total payable is 226095.99 including fees.
+request_146,26645.13,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 108600 INR.
+request_147,552.02,affordable_with_plan,installments,2026-04-08:391.63|2026-05-08:391.63|2026-06-07:391.63,2026-04-15,none,Use the supplied 3-payment plan in EUR; total payable is 1174.89 including fees.
+request_148,9291.86,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-07-15,none,Use the supplied 3-payment plan in ZAR; total payable is 23131.68 including fees.
+request_149,25043.85,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-12-15,none,Use the supplied 3-payment plan in ZAR; total payable is 38118.09 including fees.
+request_150,365.68,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-01-15,none,Use the supplied 3-payment plan in EUR; total payable is 515.94 including fees.
+request_151,26999000,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,Pay 26999000 IDR today; the projected balance remains at or above 31633600 IDR.
+request_152,11577.90,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-15,none,Use the supplied 3-payment plan in ZAR; total payable is 14437.29 including fees.
+request_153,290.40,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 1400 USD.
+request_154,1625.80,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,Use the supplied 3-payment plan in EUR; total payable is 1690.83 including fees.
+request_155,112500,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,Pay 112500 INR today; the projected balance remains at or above 56300 INR.
+request_156,9482.30,affordable_later,wait,2026-06-15:43076,2026-06-15,none,Wait until 2026-06-15 to pay 43076 ZAR; paying earlier would risk the minimum balance of 26900.
+request_157,5720612.77,affordable_later,wait,2024-05-15:23503000,2024-05-15,none,Wait until 2024-05-15 to pay 23503000 IDR; paying earlier would risk the minimum balance of 15714100.
+request_158,242600,affordable_with_plan,installments,2025-08-07:84101.33|2025-09-04:84101.33|2025-10-02:84101.33,2025-08-07,none,Use the supplied 3-payment plan in INR; total payable is 252303.99 including fees.
+request_159,12342.28,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 8700 ZAR.
+request_160,570.29,affordable_with_plan,installments,2024-06-13:432.05|2024-07-14:432.05|2024-08-14:432.05,2024-07-15,none,Use the supplied 3-payment plan in EUR; total payable is 1296.15 including fees.
+request_161,8017255.23,affordable_later,wait,2026-01-15:21204000,2026-01-15,none,Wait until 2026-01-15 to pay 21204000 IDR; paying earlier would risk the minimum balance of 23010400.
+request_162,2372687.84,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 24161100 IDR.
+request_163,10207028.36,affordable_with_plan,installments,2024-09-10:6692053.33|2024-10-11:6692053.33|2024-11-11:6692053.33,2024-10-15,none,Use the supplied 3-payment plan in IDR; total payable is 20076159.99 including fees.
+request_164,27018000,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,Use the supplied 3-payment plan in IDR; total payable is 28098720 including fees.
+request_165,80600,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,Pay 80600 INR today; the projected balance remains at or above 95000 INR.
+request_166,2907.60,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Use the supplied 3-payment plan in USD; total payable is 3023.91 including fees.
+request_167,43802,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,Pay 43802 ZAR today; the projected balance remains at or above 31200 ZAR.
+request_168,46907.95,affordable_with_plan,partial_payment,2026-01-07:46907.95|2026-01-15:2472.05,2026-01-15,none,Pay 46907.95 INR today and the remaining balance on 2026-01-15 while keeping at least 114400 INR.
+request_169,41976,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,Pay 41976 ZAR today; the projected balance remains at or above 18700 ZAR.
+request_170,31483420.45,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-08-15,none,Use the supplied 3-payment plan in IDR; total payable is 38413440 including fees.
+request_171,61.73,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 500 EUR.
+request_172,9965.94,affordable_with_plan,partial_payment,2024-06-05:9965.94|2024-06-15:234.06,2024-06-15,none,Pay 9965.94 ZAR today and the remaining balance on 2024-06-15 while keeping at least 27200 ZAR.
+request_173,0,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 79100 INR.
+request_174,1146.20,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,Use the supplied 3-payment plan in EUR; total payable is 1192.05 including fees.
+request_175,2346.30,affordable_now,full_payment,2024-09-06:2346.30,2024-09-06,none,Pay 2346.3 EUR today; the projected balance remains at or above 1700 EUR.
+request_176,399.66,affordable_later,wait,2025-02-24:1239.70,2025-02-24,none,Wait until 2025-02-24 to pay 1239.7 EUR; paying earlier would risk the minimum balance of 600.
+request_177,1017.60,affordable_now,full_payment,2026-01-05:1017.60,2026-01-05,none,Pay 1017.6 USD today; the projected balance remains at or above 1300 USD.
+request_178,2938.10,affordable_with_plan,installments,2024-12-07:1018.54|2025-01-07:1018.54|2025-02-07:1018.54,2024-12-07,none,Use the supplied 3-payment plan in EUR; total payable is 3055.62 including fees.
+request_179,8095455.22,affordable_later,wait,2025-07-15:41648000,2025-07-15,none,Wait until 2025-07-15 to pay 41648000 IDR; paying earlier would risk the minimum balance of 41430800.
+request_180,66500,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,Pay 66500 INR today; the projected balance remains at or above 37300 INR.
+request_181,555.44,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 2000 USD.
+request_182,65714,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,Pay 65714 ZAR today; the projected balance remains at or above 31100 ZAR.
+request_183,24453147.96,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-04-15,none,Use the supplied 3-payment plan in IDR; total payable is 27940640.01 including fees.
+request_184,19429,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 110800 INR.
+request_185,444.49,affordable_later,wait,2026-01-15:1257.30,2026-01-15,none,Wait until 2026-01-15 to pay 1257.3 EUR; paying earlier would risk the minimum balance of 1300.
+request_186,8484.30,affordable_later,wait,2026-02-15:26554,2026-02-15,none,Wait until 2026-02-15 to pay 26554 ZAR; paying earlier would risk the minimum balance of 22000.
+request_187,37750.93,affordable_later,wait,2024-11-15:187500,2024-11-15,none,Wait until 2024-11-15 to pay 187500 INR; paying earlier would risk the minimum balance of 128300.
+request_188,142.27,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 900 EUR.
+request_189,488.40,affordable_now,full_payment,2026-07-04:488.40,2026-07-04,none,Pay 488.4 EUR today; the projected balance remains at or above 400 EUR.
+request_190,636.10,affordable_later,wait,2025-02-15:2557.50,2025-02-15,none,Wait until 2025-02-15 to pay 2557.5 EUR; paying earlier would risk the minimum balance of 1600.
+request_191,664.40,affordable_now,full_payment,2025-05-03:664.40,2025-05-03,none,Pay 664.4 EUR today; the projected balance remains at or above 500 EUR.
+request_192,201.78,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 1000 USD.
+request_193,134.16,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-04-15,none,Use the supplied 3-payment plan in EUR; total payable is 1260.69 including fees.
+request_194,43778.91,affordable_later,wait,2025-10-15:132800,2025-10-15,none,Wait until 2025-10-15 to pay 132800 INR; paying earlier would risk the minimum balance of 113600.
+request_195,1068.87,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-01-15,none,Use the supplied 3-payment plan in EUR; total payable is 1217.22 including fees.
+request_196,762.30,affordable_now,full_payment,2024-06-03:762.30,2024-06-03,none,Pay 762.3 EUR today; the projected balance remains at or above 500 EUR.
+request_197,50939000,affordable_with_plan,installments,2025-11-19:17658853.33|2025-12-17:17658853.33|2026-01-14:17658853.33,2025-11-05,none,Use the supplied 3-payment plan in IDR; total payable is 52976559.99 including fees.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Pay 185800 INR today; the projected balance remains at or above 124300 INR.
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Use the supplied 3-payment plan in IDR; total payable is 24620960.01 including fees.
+request_200,21717000,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,Pay 21717000 IDR today; the projected balance remains at or above 20114600 IDR.
+request_201,23997000,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Pay 23997000 IDR today; the projected balance remains at or above 17304500 IDR.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Pay 123900 INR today; the projected balance remains at or above 147800 INR.
+request_203,1442.10,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,Use the supplied 3-payment plan in EUR; total payable is 1499.79 including fees.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,2026-01-04,none,Pay 588.74 EUR today; the projected balance remains at or above 1300 EUR.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Pay 10621000 IDR today; the projected balance remains at or above 13994300 IDR.
+request_206,1404.70,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,Use the supplied 3-payment plan in EUR; total payable is 1460.88 including fees.
+request_207,5378.17,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Wait until 2026-07-15 to pay 11830 ZAR; paying earlier would risk the minimum balance of 13600.
+request_208,4238560.69,affordable_later,wait,2024-06-15:4413000,2024-06-15,none,Wait until 2024-06-15 to pay 4413000 IDR; paying earlier would risk the minimum balance of 10470700.
+request_209,3320.75,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 18400 ZAR.
+request_210,991.13,affordable_with_plan,partial_payment,2026-04-06:991.13|2026-04-15:368.89,2026-04-15,none,Pay 991.13 USD today and the remaining balance on 2026-04-15 while keeping at least 2000 USD.
+request_211,338.59,affordable_later,wait,2024-11-15:1788.60,2024-11-15,none,Wait until 2024-11-15 to pay 1788.6 EUR; paying earlier would risk the minimum balance of 1500.
+request_212,7190694.13,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 29579800 IDR.
+request_213,3362.40,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,Use the supplied 3-payment plan in USD; total payable is 3496.89 including fees.
+request_214,68124.08,affordable_with_plan,partial_payment,2024-12-04:68124.08|2024-12-15:1625.92,2024-12-15,none,Pay 68124.08 INR today and the remaining balance on 2024-12-15 while keeping at least 174900 INR.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Use the supplied 3-payment plan in ZAR; total payable is 31185.45 including fees.
+request_216,571.23,affordable_later,wait,2026-09-15:3332.40,2026-09-15,none,Wait until 2026-09-15 to pay 3332.4 USD; paying earlier would risk the minimum balance of 1800.
+request_217,22262.95,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-05-15,none,Use the supplied 3-payment plan in ZAR; total payable is 38667.21 including fees.
+request_218,26273780.64,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,Use the supplied 3-payment plan in IDR; total payable is 63587679.99 including fees.
+request_219,786.55,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,2026-05-15,none,Use the supplied 3-payment plan in EUR; total payable is 1740.03 including fees.
+request_220,163.67,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 1100 EUR.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Pay 109800 INR today; the projected balance remains at or above 81500 INR.
+request_222,34078,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,Pay 34078 ZAR today; the projected balance remains at or above 27300 ZAR.
+request_223,898.70,affordable_now,full_payment,2024-09-07:898.70,2024-09-07,none,Pay 898.7 EUR today; the projected balance remains at or above 800 EUR.
+request_224,10327000,affordable_with_plan,installments,2025-02-04:5370040|2025-03-04:5370040,2025-02-04,none,Use the supplied 2-payment plan in IDR; total payable is 10740080 including fees.
+request_225,11826902.84,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-08-15,none,Use the supplied 3-payment plan in IDR; total payable is 22941360 including fees.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,Pay 157000 INR today; the projected balance remains at or above 209400 INR.
+request_227,10593.84,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 62900 INR.
+request_228,2668929.25,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 26191200 IDR.
+request_229,531.88,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-05-15,none,Use the supplied 3-payment plan in EUR; total payable is 1587.87 including fees.
+request_230,3537.60,affordable_now,full_payment,2025-08-06:3537.60,2025-08-06,none,Pay 3537.6 EUR today; the projected balance remains at or above 2000 EUR.
+request_231,35123.54,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-01-15,none,Use the supplied 3-payment plan in ZAR; total payable is 37134.24 including fees.
+request_232,757.51,affordable_later,wait,2024-08-15:1970.10,2024-08-15,none,Wait until 2024-08-15 to pay 1970.1 EUR; paying earlier would risk the minimum balance of 2400.
+request_233,4283066.40,affordable_with_plan,partial_payment,2025-11-07:4283066.40|2025-11-15:1957933.60,2025-11-15,none,Pay 4283066.40 IDR today and the remaining balance on 2025-11-15 while keeping at least 10365700 IDR.
+request_234,216.51,affordable_later,wait,2026-08-15:1213.30,2026-08-15,none,Wait until 2026-08-15 to pay 1213.3 EUR; paying earlier would risk the minimum balance of 700.
+request_235,967.20,affordable_now,full_payment,2024-09-06:967.20,2024-09-06,none,Pay 967.2 USD today; the projected balance remains at or above 700 USD.
+request_236,8055802.81,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 16768600 IDR.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,Pay 23826000 IDR today; the projected balance remains at or above 22431500 IDR.
+request_238,663.60,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,Use the supplied 3-payment plan in USD; total payable is 690.15 including fees.
+request_239,642,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,Pay 642 USD today; the projected balance remains at or above 600 USD.
+request_240,16270.66,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 52800 INR.
+request_241,21052000,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,Use the supplied 3-payment plan in IDR; total payable is 21894080.01 including fees.
+request_242,60.81,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 600 EUR.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay 17468 ZAR today; the projected balance remains at or above 19900 ZAR.
+request_244,49918,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,Pay 49918 ZAR today; the projected balance remains at or above 45900 ZAR.
+request_245,0,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 94600 INR.
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,Use the supplied 3-payment plan in ZAR; total payable is 66649.44 including fees.
+request_247,1059.30,affordable_now,full_payment,2024-09-05:1059.30,2024-09-05,none,Pay 1059.3 EUR today; the projected balance remains at or above 1300 EUR.
+request_248,974.23,affordable_with_plan,partial_payment,2025-02-07:974.23|2025-02-15:991.37,2025-02-15,none,Pay 974.23 USD today and the remaining balance on 2025-02-15 while keeping at least 1300 USD.
+request_249,200.78,affordable_later,wait,2026-02-15:643.20,2026-02-15,none,Wait until 2026-02-15 to pay 643.2 USD; paying earlier would risk the minimum balance of 600.
+request_250,15480.52,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 35300 ZAR.
+request_251,1272.62,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 1300 EUR.
+request_252,4760076.58,affordable_later,wait,2026-08-15:28082000,2026-08-15,none,Wait until 2026-08-15 to pay 28082000 IDR; paying earlier would risk the minimum balance of 15152200.
+request_253,1555.02,affordable_with_plan,installments,2024-03-21:984.60|2024-04-21:984.60|2024-05-22:984.60,2024-04-15,none,Use the supplied 3-payment plan in EUR; total payable is 2953.8 including fees.
+request_254,776.69,affordable_later,wait,2025-09-15:3535.20,2025-09-15,none,Wait until 2025-09-15 to pay 3535.2 USD; paying earlier would risk the minimum balance of 2500.
+request_255,3345000,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,Pay 3345000 IDR today; the projected balance remains at or above 9813900 IDR.
+request_256,159357.92,affordable_with_plan,installments,2024-06-10:75816|2024-07-11:75816|2024-08-11:75816,2024-07-15,none,Use the supplied 3-payment plan in INR; total payable is 227448 including fees.
+request_257,640.53,affordable_later,wait,2025-12-15:1352.40,2025-12-15,none,Wait until 2025-12-15 to pay 1352.4 USD; paying earlier would risk the minimum balance of 1600.
+request_258,1113.60,affordable_now,full_payment,2026-01-07:1113.60,2026-01-07,none,Pay 1113.6 USD today; the projected balance remains at or above 500 USD.
+request_259,213.98,affordable_later,wait,2024-11-15:935,2024-11-15,none,Wait until 2024-11-15 to pay 935 EUR; paying earlier would risk the minimum balance of 600.
+request_260,9426199.59,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 20727700 IDR.
+request_261,1830.40,affordable_now,full_payment,2026-07-03:1830.40,2026-07-03,none,Pay 1830.4 EUR today; the projected balance remains at or above 1500 EUR.
+request_262,9236000,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,Pay 9236000 IDR today; the projected balance remains at or above 31018500 IDR.
+request_263,0,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 24100 ZAR.
+request_264,27511.16,affordable_later,wait,2026-05-15:111300,2026-05-15,none,Wait until 2026-05-15 to pay 111300 INR; paying earlier would risk the minimum balance of 59500.
+request_265,45970,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,Pay 45970 INR today; the projected balance remains at or above 189700 INR.
+request_266,799.69,affordable_with_plan,installments,2025-08-03:324.13|2025-08-31:324.13|2025-09-28:324.13,2025-08-15,none,Use the supplied 3-payment plan in EUR; total payable is 972.39 including fees.
+request_267,1736.34,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-01-15,none,Use the supplied 3-payment plan in EUR; total payable is 2001.99 including fees.
+request_268,1046.91,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-15,none,Use the supplied 3-payment plan in EUR; total payable is 2523.66 including fees.
+request_269,11173.95,affordable_later,wait,2025-11-15:15490,2025-11-15,none,Wait until 2025-11-15 to pay 15490 ZAR; paying earlier would risk the minimum balance of 23100.
+request_270,140.94,not_affordable,not_recommended,none,,none,No safe supported plan was found within the deadline and 90-day forecast while maintaining 1400 USD.
+request_271,14119.52,affordable_later,wait,2024-11-15:91300,2024-11-15,none,Wait until 2024-11-15 to pay 91300 INR; paying earlier would risk the minimum balance of 58200.
+request_272,6263031.15,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-03-15,none,Use the supplied 3-payment plan in IDR; total payable is 14128400.01 including fees.
+request_273,11017416.28,affordable_with_plan,partial_payment,2026-04-07:11017416.28|2026-04-15:4843583.72,2026-04-15,none,Pay 11017416.28 IDR today and the remaining balance on 2026-04-15 while keeping at least 18774600 IDR.
+request_274,2414.08,affordable_with_plan,installments,2024-12-04:940.75|2025-01-04:940.75|2025-02-04:940.75,2024-12-15,none,Use the supplied 3-payment plan in EUR; total payable is 2822.25 including fees.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Pay 15884000 IDR today; the projected balance remains at or above 12760100 IDR.
